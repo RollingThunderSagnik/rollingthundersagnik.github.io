@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.b8b3e3f3.css",
-    "main.js": "/static/js/main.9a812307.js",
+    "main.css": "/static/css/main.500bc189.css",
+    "main.js": "/static/js/main.93a56fda.js",
     "static/js/453.c67298b9.chunk.js": "/static/js/453.c67298b9.chunk.js",
     "static/media/15 Aicon - Vrindavani Vairagya Catalogue 2024.pdf": "/static/media/15 Aicon - Vrindavani Vairagya Catalogue 2024.0ce3d485f5aed5b41a3b.pdf",
     "static/media/Hundred Years of Experimentation (1913-2013)_A Retrospective of Indian cinema and video. .pdf": "/static/media/Hundred Years of Experimentation (1913-2013)_A Retrospective of Indian cinema and video. .8eb2e661afaba1bcf805.pdf",
@@ -173,12 +173,12 @@
     "static/media/grain1.png": "/static/media/grain1.1739d9166e1a817dcf1d.png",
     "static/media/grain2.png": "/static/media/grain2.7d16f51a3c56cad763d0.png",
     "index.html": "/index.html",
-    "main.b8b3e3f3.css.map": "/static/css/main.b8b3e3f3.css.map",
-    "main.9a812307.js.map": "/static/js/main.9a812307.js.map",
+    "main.500bc189.css.map": "/static/css/main.500bc189.css.map",
+    "main.93a56fda.js.map": "/static/js/main.93a56fda.js.map",
     "453.c67298b9.chunk.js.map": "/static/js/453.c67298b9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b8b3e3f3.css",
-    "static/js/main.9a812307.js"
+    "static/css/main.500bc189.css",
+    "static/js/main.93a56fda.js"
   ]
 }
