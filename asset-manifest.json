@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/static/css/main.500bc189.css",
-    "main.js": "/static/js/main.93a56fda.js",
+    "main.js": "/static/js/main.79b78e29.js",
     "static/js/453.c67298b9.chunk.js": "/static/js/453.c67298b9.chunk.js",
     "static/media/15 Aicon - Vrindavani Vairagya Catalogue 2024.pdf": "/static/media/15 Aicon - Vrindavani Vairagya Catalogue 2024.0ce3d485f5aed5b41a3b.pdf",
-    "static/media/Hundred Years of Experimentation (1913-2013)_A Retrospective of Indian cinema and video. .pdf": "/static/media/Hundred Years of Experimentation (1913-2013)_A Retrospective of Indian cinema and video. .8eb2e661afaba1bcf805.pdf",
+    "static/media/Hundred Years of Experimentation (1913-2013).pdf": "/static/media/Hundred Years of Experimentation (1913-2013).8eb2e661afaba1bcf805.pdf",
     "static/media/3 Chatterjee & Lal - Katho Upanishad 2012.pdf": "/static/media/3 Chatterjee & Lal - Katho Upanishad 2012.5716e019eb4171c02759.pdf",
     "static/media/6 Aicon - Rati Chakravyuh 2014.pdf": "/static/media/6 Aicon - Rati Chakravyuh 2014.b00d3fb3b521073b7e83.pdf",
     "static/media/10 Aicon - Aapothkalin Trikalika Catalogue 2019.pdf": "/static/media/10 Aicon - Aapothkalin Trikalika Catalogue 2019.a2097ad6d84691e916d5.pdf",
@@ -12,11 +12,11 @@
     "static/media/Time Out, Mumbai – Past Master by Zeenat Nagre.pdf": "/static/media/Time Out, Mumbai – Past Master by Zeenat Nagre.b283daef74027611c42e.pdf",
     "static/media/14 Chatterjee & Lal - Rummaging for Past 2023.pdf": "/static/media/14 Chatterjee & Lal - Rummaging for Past 2023.aaeaf0f66c1f2bf81360.pdf",
     "static/media/Interviewed by Amrit Gangar.pdf": "/static/media/Interviewed by Amrit Gangar.251c6ec73291579d132e.pdf",
-    "static/media/Bangla Black, Kolkata – Interview with Ashish Avikunthak (in Bengali).pdf": "/static/media/Bangla Black, Kolkata – Interview with Ashish Avikunthak (in Bengali).799902e0c076b8003e75.pdf",
+    "static/media/Bangla Black, Kolkata – Interview with Ashish Avikunthak.pdf": "/static/media/Bangla Black, Kolkata – Interview with Ashish Avikunthak.799902e0c076b8003e75.pdf",
     "static/media/11 Wolf Kino Catalog 2019.pdf": "/static/media/11 Wolf Kino Catalog 2019.0cafade1f7b43ae6a260.pdf",
-    "static/media/Ashish Avikunthak’s Rati Chakravyuh- Tales of Long Takes by Aparna Frank.pdf": "/static/media/Ashish Avikunthak’s Rati Chakravyuh- Tales of Long Takes by Aparna Frank.c89852f1058622b9f48d.pdf",
+    "static/media/Tales of Long Takes by Aparna Frank.pdf": "/static/media/Tales of Long Takes by Aparna Frank.c89852f1058622b9f48d.pdf",
     "static/media/An Interview with Ashish Avikunthak by Maurizio Calbi.pdf": "/static/media/An Interview with Ashish Avikunthak by Maurizio Calbi.290601da78cd44d292ed.pdf",
-    "static/media/അ ടി യ ന്ത രാ വ സ്ഥ ക്കാ ല ത്തെ ഭീ ക ര രൂ പ ങ്ങ ൾ by P.K. Surendran in Madhyamam Weekly. .pdf": "/static/media/അ ടി യ ന്ത രാ വ സ്ഥ ക്കാ ല ത്തെ ഭീ ക ര രൂ പ ങ്ങ ൾ by P.K. Surendran in Madhyamam Weekly. .c42bf8bd59d598211914.pdf",
+    "static/media/P.K. Surendran in Madhyamam Weekly. .pdf": "/static/media/P.K. Surendran in Madhyamam Weekly. .c42bf8bd59d598211914.pdf",
     "static/media/12 Chatterjee & Lal - Vrindavani Vairagya 2019.pdf": "/static/media/12 Chatterjee & Lal - Vrindavani Vairagya 2019.eb4970ae74bc3de56ab1.pdf",
     "static/media/8 Range Gallery - Kalkimanthakatha 2017.pdf": "/static/media/8 Range Gallery - Kalkimanthakatha 2017.e5447af0bfa3ef510a61.pdf",
     "static/media/Erasure of the Subaltern as Auto Critique.pdf": "/static/media/Erasure of the Subaltern as Auto Critique.8c4df872ccc7f9fbc17a.pdf",
@@ -30,7 +30,7 @@
     "static/media/Nation and Narration, Art India.pdf": "/static/media/Nation and Narration, Art India.29bdbaeb06df50dcab96.pdf",
     "static/media/ashish2.jpeg": "/static/media/ashish2.0f86af47d3aa2fbed46d.jpeg",
     "static/media/Untitled.jpg": "/static/media/Untitled.36ff462a9a0d88f5f6f8.jpg",
-    "static/media/Performing Shakespeare and Kathakali in Ashish Avikunthak’s Dancing Othello.pdf": "/static/media/Performing Shakespeare and Kathakali in Ashish Avikunthak’s Dancing Othello.fc15013de9f828dcbde7.pdf",
+    "static/media/Performing Shakespeare and Kathakali in Dancing Othello.pdf": "/static/media/Performing Shakespeare and Kathakali in Dancing Othello.fc15013de9f828dcbde7.pdf",
     "static/media/Hindustan Times, Mumbai - Moving Images.jpg": "/static/media/Hindustan Times, Mumbai - Moving Images.553889059c2e01824e92.jpg",
     "static/media/aicon14.png": "/static/media/aicon14.a9462c5635608afcdc5b.png",
     "static/media/The Hindu, Trivandrum - Journey into Women's Mind.jpg": "/static/media/The Hindu, Trivandrum - Journey into Women's Mind.c691f0fa3c4a98d79cc8.jpg",
@@ -81,7 +81,7 @@
     "static/media/5 Rati Chakravyuh.jpg": "/static/media/5 Rati Chakravyuh.11aec6b0ceb787c5cf21.jpg",
     "static/media/mtf3.png": "/static/media/mtf3.8ac55039545928cd332d.png",
     "static/media/mtf4.png": "/static/media/mtf4.cbfd7d38a9875fddd1a9.png",
-    "static/media/“Cryptographic Imagination_Indus Script and the Project of Scientific Decipherment”.pdf": "/static/media/“Cryptographic Imagination_Indus Script and the Project of Scientific Decipherment”.6d5127c027a8ded31a83.pdf",
+    "static/media/Cryptographic Imagination Indus Script and the Project of Scientific Decipherment.pdf": "/static/media/Cryptographic Imagination Indus Script and the Project of Scientific Decipherment.6d5127c027a8ded31a83.pdf",
     "static/media/7 Chatterjee & Lal - Kalkimanthankatha Catalog 2015.pdf": "/static/media/7 Chatterjee & Lal - Kalkimanthankatha Catalog 2015.14020d9c807e83e53787.pdf",
     "static/media/mtf8.png": "/static/media/mtf8.31f8f670dba3560e2012.png",
     "static/media/2 The Emergency of Kali.jpg": "/static/media/2 The Emergency of Kali.ef5bfe385a23db0441e5.jpg",
@@ -174,11 +174,11 @@
     "static/media/grain2.png": "/static/media/grain2.7d16f51a3c56cad763d0.png",
     "index.html": "/index.html",
     "main.500bc189.css.map": "/static/css/main.500bc189.css.map",
-    "main.93a56fda.js.map": "/static/js/main.93a56fda.js.map",
+    "main.79b78e29.js.map": "/static/js/main.79b78e29.js.map",
     "453.c67298b9.chunk.js.map": "/static/js/453.c67298b9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.500bc189.css",
-    "static/js/main.93a56fda.js"
+    "static/js/main.79b78e29.js"
   ]
 }
