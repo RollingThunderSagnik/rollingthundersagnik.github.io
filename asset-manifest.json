@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.78bf1148.css",
+    "main.css": "/static/css/main.ec26ba5c.css",
     "main.js": "/static/js/main.f3945ac1.js",
     "static/js/453.c67298b9.chunk.js": "/static/js/453.c67298b9.chunk.js",
     "static/media/15 Aicon - Vrindavani Vairagya Catalogue 2024.pdf": "/static/media/15 Aicon - Vrindavani Vairagya Catalogue 2024.0ce3d485f5aed5b41a3b.pdf",
@@ -171,12 +171,12 @@
     "static/media/grain.png": "/static/media/grain.979a1316d9f43351edea.png",
     "static/media/exp15.png": "/static/media/exp15.9a4b7715a57e4efd1c9d.png",
     "index.html": "/index.html",
-    "main.78bf1148.css.map": "/static/css/main.78bf1148.css.map",
+    "main.ec26ba5c.css.map": "/static/css/main.ec26ba5c.css.map",
     "main.f3945ac1.js.map": "/static/js/main.f3945ac1.js.map",
     "453.c67298b9.chunk.js.map": "/static/js/453.c67298b9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.78bf1148.css",
+    "static/css/main.ec26ba5c.css",
     "static/js/main.f3945ac1.js"
   ]
 }
