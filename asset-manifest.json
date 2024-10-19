@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.500bc189.css",
-    "main.js": "/static/js/main.79b78e29.js",
+    "main.css": "/static/css/main.78bf1148.css",
+    "main.js": "/static/js/main.f3945ac1.js",
     "static/js/453.c67298b9.chunk.js": "/static/js/453.c67298b9.chunk.js",
     "static/media/15 Aicon - Vrindavani Vairagya Catalogue 2024.pdf": "/static/media/15 Aicon - Vrindavani Vairagya Catalogue 2024.0ce3d485f5aed5b41a3b.pdf",
     "static/media/Hundred Years of Experimentation (1913-2013).pdf": "/static/media/Hundred Years of Experimentation (1913-2013).8eb2e661afaba1bcf805.pdf",
@@ -170,15 +170,13 @@
     "static/media/ASI & Postcolonial Archaeology in Lydon & Rizvi, 2010.pdf": "/static/media/ASI & Postcolonial Archaeology in Lydon & Rizvi, 2010.4bb809febc2f517e7dd4.pdf",
     "static/media/grain.png": "/static/media/grain.979a1316d9f43351edea.png",
     "static/media/exp15.png": "/static/media/exp15.9a4b7715a57e4efd1c9d.png",
-    "static/media/grain1.png": "/static/media/grain1.1739d9166e1a817dcf1d.png",
-    "static/media/grain2.png": "/static/media/grain2.7d16f51a3c56cad763d0.png",
     "index.html": "/index.html",
-    "main.500bc189.css.map": "/static/css/main.500bc189.css.map",
-    "main.79b78e29.js.map": "/static/js/main.79b78e29.js.map",
+    "main.78bf1148.css.map": "/static/css/main.78bf1148.css.map",
+    "main.f3945ac1.js.map": "/static/js/main.f3945ac1.js.map",
     "453.c67298b9.chunk.js.map": "/static/js/453.c67298b9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.500bc189.css",
-    "static/js/main.79b78e29.js"
+    "static/css/main.78bf1148.css",
+    "static/js/main.f3945ac1.js"
   ]
 }
