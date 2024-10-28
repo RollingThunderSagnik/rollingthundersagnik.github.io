@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.ec26ba5c.css",
-    "main.js": "/static/js/main.f3945ac1.js",
-    "static/js/453.c67298b9.chunk.js": "/static/js/453.c67298b9.chunk.js",
+    "main.css": "/static/css/main.988b6f4d.css",
+    "main.js": "/static/js/main.f454be95.js",
+    "static/js/206.8574f57d.chunk.js": "/static/js/206.8574f57d.chunk.js",
     "static/media/15 Aicon - Vrindavani Vairagya Catalogue 2024.pdf": "/static/media/15 Aicon - Vrindavani Vairagya Catalogue 2024.0ce3d485f5aed5b41a3b.pdf",
     "static/media/Hundred Years of Experimentation (1913-2013).pdf": "/static/media/Hundred Years of Experimentation (1913-2013).8eb2e661afaba1bcf805.pdf",
     "static/media/3 Chatterjee & Lal - Katho Upanishad 2012.pdf": "/static/media/3 Chatterjee & Lal - Katho Upanishad 2012.5716e019eb4171c02759.pdf",
@@ -170,13 +170,10 @@
     "static/media/ASI & Postcolonial Archaeology in Lydon & Rizvi, 2010.pdf": "/static/media/ASI & Postcolonial Archaeology in Lydon & Rizvi, 2010.4bb809febc2f517e7dd4.pdf",
     "static/media/grain.png": "/static/media/grain.979a1316d9f43351edea.png",
     "static/media/exp15.png": "/static/media/exp15.9a4b7715a57e4efd1c9d.png",
-    "index.html": "/index.html",
-    "main.ec26ba5c.css.map": "/static/css/main.ec26ba5c.css.map",
-    "main.f3945ac1.js.map": "/static/js/main.f3945ac1.js.map",
-    "453.c67298b9.chunk.js.map": "/static/js/453.c67298b9.chunk.js.map"
+    "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/css/main.ec26ba5c.css",
-    "static/js/main.f3945ac1.js"
+    "static/css/main.988b6f4d.css",
+    "static/js/main.f454be95.js"
   ]
 }
